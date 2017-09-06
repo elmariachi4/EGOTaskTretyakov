@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="PRAPinnedListView">
+  <name>PRAPinnedListView</name>
+  <publisher>M RIYAZ</publisher>
+  <publisher-url>http://www.invertedi.com</publisher-url>
+  <version>1.0</version>
+  <summary>Use PRAPinnedListView to make your app listing beautiful by usinh sticky headers for listview.</summary>
+  <samples>
+    <sample id="PRAPinnedListView">
+      <name>Android Sample.</name>
+      <summary>Demonstrates PRAPinnedListView on Android</summary>
+    </sample>
+  </samples>
+</component>
